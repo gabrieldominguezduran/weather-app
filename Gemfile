@@ -66,3 +66,8 @@ end
 
 
 gem "tailwindcss-rails", "~> 2.0"
+
+gem "jsbundling-rails", "~> 1.0"
+
+gem 'dotenv-rails'
+gem 'city-state'
